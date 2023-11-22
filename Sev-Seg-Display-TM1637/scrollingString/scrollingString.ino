@@ -25,7 +25,7 @@ void loop() {
       SEG_B | SEG_C | SEG_D | SEG_F | SEG_G,                 // Y
       SEG_G,                                  // -
       SEG_G,                                  // -
-      SEG_G,                           MM       // -
+      SEG_G,                                 // -
       SEG_G,                                  // -
       SEG_G                                   // -
   };
